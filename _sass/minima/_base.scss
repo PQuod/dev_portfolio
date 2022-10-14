@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400;1,7..72,700&display=swap');
+
 :root{
   --line-height:2em;
   --mc:#f9f9f9;
   --cc1:#2c2c2c;
   --cc2:#ff0038;
-  --font:serif;
+  --font:'Literata', serif;
   --f-sanserif:monospace;
   --border: 1px solid var(--cc1);
 }
