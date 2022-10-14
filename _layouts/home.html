@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="two-col-content">
+  <div class="left-nav">
+    {% assign related = site.posts | where: "lang", page.lang %}
+    {% assign posts = related | where: "categories", "news" %}
+    {% for post in posts %}
+      {{ post.content | markdownify }}
+    {% endfor %}
+  </div>
+  <div class="right-content">
+    {{ content }}
+    <div class="end-sign">
+      ⚛
+    </div>
+  </div>
+</div>

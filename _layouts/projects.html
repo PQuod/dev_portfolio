@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="two-col-content">
+  <div class="left-nav">
+    {% assign related = site.posts | where: "lang", page.lang %}
+      {% assign posts = related | where: "categories", "news" %}
+      {% for post in posts %}
+        {{ post.content | markdownify }}
+      {% endfor %}
+  </div>
+  <div class="right-content">
+    <div class="projects-display">
+      {% assign postslang = site.posts | where: "lang", page.lang %}
+      {% assign posts = postslang | where: "categories", "projects" %}
+      {% for post in posts %}
+        <div class="project-post">
+            <img src="/imgs/projects/{{ post.img }}" alt="Cover illustration of {{ post.title }} project" />
+          {% if post.ext_link %}
+            <h2><a href="{{ post.ext_link }}" target="_blank">{{ post.title }}</a></h2>
+          {% else %}
+            <h2>{{ post.title }}</h2>
+          {% endif %}
+          {{ post.content }}
+          <div class="project-otherlinks">
+            <span>{{ site.data.trad['deployed'][page.lang] }} {{ post.date | date: "%B %Y" }}</span>
+            {% if post.github %}
+            <span>
+              <a href="{{ post.github }}">Github repo</a>
+            </span>
+            {% endif %}
+            {% if post.log %}
+            <span>
+              <a href="{{ post.log }}">{{ site.data.trad['related'][page.lang] }}</a>
+            <span>
+            {% endif %}
+          </div>
+        </div>
+        <div class="end-sign">
+          ⚛
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

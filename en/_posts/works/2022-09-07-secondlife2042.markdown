@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Second Life 2042"
+date:   2022-07-07 14:21:50 +0200
+categories: works
+features: 'dynamic, webcam and microphone recording, database, custom CMS, cronjob'
+languages: 'html, css, php, mysql'
+img: secondlife2042
+no_link: Site access reserved to the shows' assistance.
+lang: en
+lang-ref: second-life
+---
+3615Dakota is a theater company whose show, *Second Life 2042*, uses a web app allowing spectators to record a video message which will be sent back to their future self several years later. The site is accessible with a password delivered during the show. The users can then record themselves with the device's webcam and microphone. Once the recording is over, a form is filled with the information required in order to receive this video message onto their mailbox in several years. An admin panel allows the members of the company to change useful parameters on the site and to get an overview of the users' activities. A cronjob checks daily if any video must be sent this day.

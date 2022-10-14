@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "WMAN"
+date:   2020-05-08 14:21:50 +0200
+categories: works
+features: 'static, responsive'
+languages: 'html, scss, js, liquid, jekyll'
+img: wman
+ext_link: 'http://wman.monster'
+lang: en
+lang-ref: wman
+---
+WMAN is a collective of artists working on video games. This site is a very minimalist showcase of their different adventures.

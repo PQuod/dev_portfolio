@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="two-col-content">
+  <div class="left-nav">
+    <h2>{{ site.data.trad['sommaire'][page.lang] }}</h2>
+    <ul>
+      {% assign related = site.posts | where: "lang", page.lang %}
+      {% assign extracts = related | where: "categories", "log" %}
+      {% for post in extracts %}
+        {% unless post.draft %}
+        <li>
+          <a href="#{{ post.title | slugify}}" class="log-list">
+          <span class="log-list-title">{{ post.title }}</span><br>
+          <span class="log-list-date">{{ post.date | date_to_string}}</span>
+        </a>
+        </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="right-content">
+  {% assign postslang = site.posts | where: "lang", page.lang %}
+  {% assign log = postslang | where: "categories", "log" %}
+  {% for post in log %}
+    {% unless post.draft %}
+      <div class="log-post">
+        <div class="log-entete" id="{{ post.title | slugify }}">
+          <h2>{{ post.title }}</h2>
+          <div class="log-date">{{ post.date | date_to_long_string }}</div>
+          <div>{{ post.tags }}</div>
+        </div>
+        <div class="log-post-content">
+          {{ post.content | markdownify }}
+        </div>
+        <div class="end-sign">
+          ⚛
+        </div>
+      </div>
+    {% endunless %}
+  {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="work-content">
+  {% assign related = site.posts | where: "lang", page.lang %}
+  {% assign posts = related | where: "categories", "works" %}
+  {% for post in posts %}
+    <div class="work-display">
+      <div class="work-desktop">
+        <img src="/imgs/work/{{ post.img }}_desktop.jpg" alt="screenshot of the site on screen resolution" />
+      </div>
+      <div class="work-tablet">
+        <img src="/imgs/work/{{ post.img }}_tablet.jpg" alt="screenshot of the site on tablet resolution" />
+      </div>
+      <div class="work-phone">
+        <img src="/imgs/work/{{ post.img }}_phone.jpg" alt="screenshot of the site on phone resolution" />
+        <span class="phone-cercle"></span>
+      </div>
+    </div>
+    <div class="work-description">
+      <div class="work-main">
+        <h2>{{ post.title }}</h2>
+        <div class="work-link">
+          {% if post.ext_link %}
+            <a href="{{ post.ext_link }}" target="_blank">{{ post.ext_link}}</a>
+          {% elsif post.no_link %}
+            <span>{{ post.no_link }}</span>
+          {% else %}
+            <span>{{ site.data.trad['offline'][page.lang] }}</span>
+          {% endif %}
+        </div>
+        {{post.content}}
+      </div>
+      <div class="work-specifics">
+        <p><span class="colored">{{ site.data.trad['functions'][page.lang] }}:</span> {{ post.features }}<p>
+        <p><span class="colored">{{ site.data.trad['tools'][page.lang] }}:</span> {{ post.languages }}</p>
+        <p><span class="colored">{{ site.data.trad['deployed'][page.lang] }}:</span> {{ post.date | date: "%B %Y" }}</p>
+      </div>
+    </div>
+    <div class="end-sign">
+      ⚛
+    </div>
+  {% endfor %}
+</div>

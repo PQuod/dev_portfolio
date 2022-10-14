@@ -1,0 +1,18 @@
+sommaire:
+  fr: "Sommaire"
+  en: "Content"
+deployed:
+  fr: "Déployé en "
+  en: "Deployed on"
+related:
+  fr: "Article du journal"
+  en: "Related log post"
+offline:
+  fr: "Site hors-ligne"
+  en: "Site offline"
+functions:
+  fr: "Fonctions "
+  en: "Functions"
+tools:
+  fr: "Outils "
+  en: "Tools"

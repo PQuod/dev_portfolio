@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="places-content">
+  <h2>{{ page.title_long }}</h2>
+  {% assign related = site.posts | where: "lang", page.lang %}
+  {% assign places = related | where: "categories", "places" %}
+  {% assign counter = places.size | plus: 1 %}
+  {% for post in places %}
+    {% capture number %}{{ counter | minus: 1 }}{% endcapture %}
+    {% assign counter = number %}
+    <div class="places-grid">
+      {% if post.fav %}
+        <div class="places-fav">♥</div>
+      {% else %}
+        <div class="places-fav"></div>
+      {% endif %}
+      <div class="places-number">{{ number }}</div>
+      <a class="places-title" src="{{ post.link }}"><span class="bordure">{{ post.title }}<span class="fleche"></span></span></a>
+      <div class="places-date">{{ post.date | date_to_long_string }}</div>
+      <div class="places-description">{{ post.content }}</div>
+    </div>
+  {% endfor %}
+</div>

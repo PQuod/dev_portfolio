@@ -1,0 +1,27 @@
+<header>
+  {% assign pages = site.pages | where: "lang", page.lang | sort: "order" %}
+  <a href="{{ site.baseurl }}/{{ page.lang}}" class="no-decoration">
+    <h1>Lucie Desaubliaux</h1>
+  </a>
+  <nav>
+    {% for page in pages %}
+      {% unless page.lang-ref == "index" %}
+        <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      {% endunless %}
+    {% endfor %}
+  </nav>
+  <div class="lang-nav">
+    {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort:"lang" %}
+      {% assign language = page.lang %}
+    {% if posts.size == 0 %}
+      {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+      <div class="toggle-lang">
+        {% for post in posts %}
+          <a class="{{post.lang}} {% if post.lang == language %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{post.lang}}</a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</header>

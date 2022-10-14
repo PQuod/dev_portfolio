@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Second Life 2042"
+date:   2022-07-07 14:21:50 +0200
+categories: works
+features: 'dynamique, enregistrement webcam et micro, base de données, CMS maison, cronjob'
+languages: 'html, css, php, mysql'
+img: secondlife2042
+no_link: Le site est accessible uniquement pour le public du spectacle.
+lang: fr
+lang-ref: second-life
+---
+3615Dakota est une compagnie de théâtre dont le spectacle, *Second Life 2042*, utilise une application web permettant au public d'enregistrer un message vidéo qui lui sera renvoyé dans le futur, plusieurs années plus tard. Le site est accessible grâce à un mot de passe donné pendant le spectacle. Les spectateur&middot;ices peuvent alors s'enregistrer grâce à la webcam et au microphone des tablettes à leur disposition. Une fois l'enregistrement fini, iels remplissent un formulaire avec les informations nécessaires pour recevoir ce message sur leur boîte mail dans plusieurs années. Un espace administrateur&middot;ices permet aux membres de la compagnie de gérer les paramètres utiles du site et d'avoir un registre des utilisateur&middot;ices de l'application. Un cronjob vérifie quotidiennement si une des vidéos doit être envoyée.
