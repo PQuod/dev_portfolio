@@ -1,7 +1,5 @@
 ---
 layout: home
-lang: "en"
-lang-ref: index
 ---
 I'm **Lucie**, a french web developer, and this is my internet shack.
 
