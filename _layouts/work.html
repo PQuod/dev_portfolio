@@ -7,13 +7,13 @@ layout: default
   {% for post in posts %}
     <div class="work-display">
       <div class="work-desktop">
-        <img src="imgs/work/{{ post.img }}_desktop.jpg" alt="screenshot of the site on screen resolution" />
+        <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_desktop.jpg" alt="screenshot of the site on screen resolution" />
       </div>
       <div class="work-tablet">
-        <img src="imgs/work/{{ post.img }}_tablet.jpg" alt="screenshot of the site on tablet resolution" />
+        <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_tablet.jpg" alt="screenshot of the site on tablet resolution" />
       </div>
       <div class="work-phone">
-        <img src="imgs/work/{{ post.img }}_phone.jpg" alt="screenshot of the site on phone resolution" />
+        <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_phone.jpg" alt="screenshot of the site on phone resolution" />
         <span class="phone-cercle"></span>
       </div>
     </div>

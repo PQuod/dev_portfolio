@@ -15,7 +15,7 @@ layout: default
       {% assign posts = postslang | where: "categories", "projects" %}
       {% for post in posts %}
         <div class="project-post">
-            <img src="/imgs/projects/{{ post.img }}" alt="Cover illustration of {{ post.title }} project" />
+            <img src="{{site.baseurl}}/imgs/projects/{{ post.img }}" alt="Cover illustration of {{ post.title }} project" />
           {% if post.ext_link %}
             <h2><a href="{{ post.ext_link }}" target="_blank">{{ post.title }}</a></h2>
           {% else %}
