@@ -6,7 +6,7 @@ categories: works
 features: 'static, responsive, light/dark mode, bilingual'
 languages: 'html, scss, js, liquid, jekyll, forestry'
 img: mepierdoparaver
-ext_link: https://mepierdoparaver.com
+ext_link: www.mepierdoparaver.com
 lang: en
 lang-ref: me-pierdo
 ---

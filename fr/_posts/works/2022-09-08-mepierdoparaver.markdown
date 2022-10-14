@@ -6,7 +6,7 @@ categories: works
 features: 'statique, responsive, mode jour/nuit, bilingue'
 languages: 'html, scss, js, liquid, jekyll, forestry'
 img: mepierdoparaver
-ext_link: https://mepierdoparaver.com
+ext_link: www.mepierdoparaver.com
 lang: fr
 lang-ref: me-pierdo
 ---
