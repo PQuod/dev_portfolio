@@ -2,7 +2,7 @@ title: Lucie Desaubliaux - Web developer
 email: l.desaubliaux@gmail.com
 description: >-
   Welcome to my portfolio, a place where are displayed my web designing works and projects.
-baseurl: ""
+baseurl: "/dev_portfolio"
 url: ""
 github_username:  PQuod
 theme: minima
