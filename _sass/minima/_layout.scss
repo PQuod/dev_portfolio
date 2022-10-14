@@ -35,9 +35,10 @@ nav{
 .active{
   color:var(--cc2);
 }
-  .active:after{
-    color:transparent;
-  }
+
+.active:after{
+  color:transparent;
+}
 
 
 main{
