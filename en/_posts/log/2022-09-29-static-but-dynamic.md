@@ -9,7 +9,7 @@ I know it could sound counterintuitive, or worse, heretic. But sometimes –  so
 
 ## the whys
 
-I'm currently developing the new [Maison de la Poésie de Rennes's website](maiporennes.fr)[^1], a french association where I have a part-time job. We (my colleague Quentin and I) knew from the beginning that we wanted something fast, something light, something mainly dedicated to text and something that we could update very quickly, clearly and easily. We have to add new events on the site weekly, we have several types of posts that need to be displayed specifically and we know our public may be not that comfortable with the internet.
+I'm currently developing the new [Maison de la Poésie de Rennes's website](https://maiporennes.fr)[^1], a french association where I have a part-time job. We (my colleague Quentin and I) knew from the beginning that we wanted something fast, something light, something mainly dedicated to text and something that we could update very quickly, clearly and easily. We have to add new events on the site weekly, we have several types of posts that need to be displayed specifically and we know our public may be not that comfortable with the internet.
 
 All these reasons pointed to static websites as the best fit for our needs (also, Quentin and I fell in love with SSG two years ago, creating our first static website together, [Internet Exploreur](https://pquod.github.io/InternetExploreur/)). I chose to use Jekyll to build it, because it's the SSG I'm the most familiar with[^2], and to use Netlify as our CMS, for its functions seemed very wide.
 
