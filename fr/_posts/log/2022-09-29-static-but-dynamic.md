@@ -4,8 +4,6 @@ lang: fr
 lang-ref: static-dynamic
 date: 2022-10-04
 categories: 'log'
-lang: fr
-lang-ref: static-dynamic
 ---
 Je sais que cela peut paraître paradoxal, contre-intuitif, ou pire, hérétique. Mais des fois – des fois –, l'utilisation d'une base de données en accompagnement d'un site statique peut se révéler utile, voire nécessaire.
 
