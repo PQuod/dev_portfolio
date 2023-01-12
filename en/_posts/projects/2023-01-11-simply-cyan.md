@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simply Cyan - Jekyll theme"
-date:   2022-06-08 14:21:50 +0200
+date:   2023-01-11 14:21:50 +0200
 categories: projects
 img: "simply-cyan.JPG"
 ext_link: "https://pquod.github.io/simply-cyan-demo/"
