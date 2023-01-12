@@ -7,4 +7,4 @@ link: "https://simone.computer/#/"
 lang: en
 lang-ref: simone-computer
 ---
-Personal website of Simone and beautiful retro computer design
+Personal website of Simone and beautiful retro computer design.
