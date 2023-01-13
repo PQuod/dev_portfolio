@@ -16,7 +16,7 @@ layout: default
         <div class="places-fav"></div>
       {% endif %}
       <div class="places-number">{{ number }}</div>
-      <a class="places-title" src="{{ post.link }}"><span class="bordure">{{ post.title }}<span class="fleche"></span></span></a>
+      <a class="places-title" href="{{ post.link }}"><span class="bordure">{{ post.title }}<span class="fleche"></span></span></a>
       <div class="places-date">{{ post.date | date_to_long_string }}</div>
       <div class="places-description">{{ post.content }}</div>
     </div>
