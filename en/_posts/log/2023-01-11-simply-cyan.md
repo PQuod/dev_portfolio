@@ -1,5 +1,5 @@
 ---
-title: 'Premier thème Jekyll'
+title: 'First Jekyll theme'
 lang: en
 lang-ref: simply-cyan-log
 date: 2023-01-11
