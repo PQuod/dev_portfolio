@@ -7,4 +7,4 @@ link: "https://bjhess.com/"
 lang: en
 lang-ref: barry-hess
 ---
-One of the contributors of [Good Enough](https://goodenough.us/), to visit as well !
+One of the contributors of [Good Enough](https://goodenough.us/), to visit as well!
