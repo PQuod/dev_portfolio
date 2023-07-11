@@ -18,7 +18,7 @@ layout: default
       <div class="places-number">{{ number }}</div>
       <a class="places-title" href="{{ post.link }}"><span class="bordure">{{ post.title }}<span class="fleche"></span></span></a>
       <div class="places-date">{{ post.date | date_to_long_string }}</div>
-      <div class="places-description">{{ post.content }}</div>
+      <div class="places-description">{{ post.content | markdownify }}</div>
     </div>
   {% endfor %}
   <div class="end-sign">
