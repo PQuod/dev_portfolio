@@ -10,4 +10,4 @@ ext_link: www.mepierdoparaver.com
 lang: en
 lang-ref: me-pierdo
 ---
-Carlos Bernal Barrera's website, featuring his work. The site is built with Jekyll and its content is fully accessible to its owner *via* the headless CMS Forestry. Carlos being Colombian living in France, we wanted to play around with his two countries. The site is bilingual, with a toggle allowing to switch between languages from any page. A script automatically changes the design, between light or dark mode, in accordance with Colombia night/day cycle.
+Carlos Bernal Barrera's website, featuring his work. The site is built with Jekyll and its content is fully accessible to its owner *via* the headless CMS Forestry *edit: migrated to TinaCMS in may 2023*. Carlos being Colombian living in France, we wanted to play around with his two countries. The site is bilingual, with a toggle allowing to switch between languages from any page. A script automatically changes the design, between light or dark mode, in accordance with Colombia night/day cycle.
