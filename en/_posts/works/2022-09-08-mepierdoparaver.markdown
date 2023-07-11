@@ -4,7 +4,7 @@ title:  "Me pierdo para ver"
 date:   2022-09-08 14:21:50 +0200
 categories: works
 features: 'static, responsive, light/dark mode, bilingual'
-languages: 'html, scss, js, liquid, jekyll, forestry'
+languages: 'html, scss, js, liquid, jekyll, forestry then tinaCMS'
 img: mepierdoparaver
 ext_link: www.mepierdoparaver.com
 lang: en
