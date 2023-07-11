@@ -12,7 +12,7 @@ With Quentin Leclerc, my colleague and friend, we built, during the first french
 
 Its maintenance was too time-consuming for Quentin who decided to stop updating it in march 2022.
 
-In order to allow others to be able to use the researches we made to build a clear, adaptable and accessible website, I decided to make a jekyll thme out of it.
+In order to allow others to be able to use the researches we made to build a clear, adaptable and accessible website, I decided to make a jekyll theme out of it.
 
 Its Github repo is [here](https://github.com/PQuod/simply-cyan-theme), a demo is accessible [there](https://pquod.github.io/simply-cyan-demo/) and its Gem page is [here](https://rubygems.org/gems/simply-cyan).
 
