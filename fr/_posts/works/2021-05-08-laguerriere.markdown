@@ -3,8 +3,8 @@ layout: post
 title:  "La Guerrière"
 date:   2021-05-08 14:21:50 +0200
 categories: works
-features: 'statique, <i>à venir</i> : headless CMS'
-languages: 'html, scss, js, liquid, jekyll'
+features: 'statique, headless CMS'
+languages: 'html, scss, js, liquid, jekyll, forestry'
 img: laguerriere
 ext_link: https://laguerriere.net/
 lang: fr
