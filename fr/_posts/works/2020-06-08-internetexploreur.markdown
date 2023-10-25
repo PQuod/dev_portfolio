@@ -6,7 +6,7 @@ categories: works
 features: "statique, basé sur le texte, mode nuit/jour, responsive, outils d'accessibilité"
 languages: 'html, scss, js, liquid, jekyll'
 img: internetexploreur
-ext_link: 'Site archivé sur le répertoire github : https://github.com/PQuod/InternetExploreur'
+ext_link: 'https://github.com/PQuod/InternetExploreur'
 lang: fr
 lang-ref: internet-exploreur
 ---
