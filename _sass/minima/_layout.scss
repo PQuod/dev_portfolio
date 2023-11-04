@@ -231,6 +231,7 @@ main{
 }
 
 .log-post-content{
+  margin-bottom:calc(var(--line-height)*2);
   h2{
     margin-top:var(--line-height);
     margin-bottom:calc(var(--line-height)/2);
