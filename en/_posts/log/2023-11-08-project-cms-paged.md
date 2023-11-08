@@ -22,20 +22,25 @@ I already have several types of document designed in html and css, and I won't s
 All our documents are composed of A4 pages, and are not bound as booklets, which will save ourselves a bunch of parameters to take care of.
 
 So, in short, we need a tool allowing anybody in the organisation to :
+
 ### Create
 - Create a new A4 document.
 - Create a new page to add to this document, associating a template to this page depending on the type of content or the looks they need.
 - Fill this page with new content, choosing where each fragment of content will go on the different available spaces to fill on the page (titles, plain text, legends, images...)
+
 ### Edit
 - Edit the content of an existing page
 - Edit the order of the pages
+
 ### Delete
 - Delete existing pages
 - Delete an existing document
+
 ### See what they're doing
 - Browse through a list of the already existing documents
 - Go through an overview of the whole document
 - See an overview of the page they're creating or editing while they're doing so
+
 
 I chose to code this using mainly php. That's a language I'm quite familiar with, having worked on many projects including databases and coding the CMS allowing third-parties to manipulate them. That's what I'll use to play server-side, to browse through, edit, save and delete my different files. I'll also be using a bunch of js script, mainly to manage the documents and pages overviews.
 
