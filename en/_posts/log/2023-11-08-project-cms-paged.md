@@ -1,5 +1,5 @@
 ---
-title: "[Project] A CMS for Paged.js"
+title: "[Project] A CMS for Paged.js &middot; Specifications"
 date: 2023-11-08
 categories: 'log'
 lang: en
