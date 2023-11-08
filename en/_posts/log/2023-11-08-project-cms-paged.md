@@ -6,15 +6,15 @@ lang: en
 lang-ref: cms-pagedjs-1
 ---
 ## The project
-I work part-time in a cultural associative organisation based in Rennes (Brittany, France). We very often need to produce documents adressed either to the different institutions that are funding us or to our members and followers. These are not used as advertisements or promotional material for our events but rather are adminsitrative files depicting cultural contents, political axis, budgets or territories of action. They are quite descriptive, mainly consisting in large portions of text, but they still have to be fancy and appealing, so we take great care in their graphical design.
+I work part-time in a cultural associative organisation based in Rennes (Brittany, France). We very often need to produce documents adressed either to the different institutions that are funding us or to our members and followers. These documents are neither advertisements nor promotional material for our events but rather  adminsitrative files depicting cultural contents, political axis, budgets or territories of action. They are quite descriptive, mainly consisting in large portions of text, but they still have to be fancy and appealing, so we take great care in their graphical design.
 
-I'm the one designing them and for the first years, I chose what appeared to me like the most straightforward way to do so, aka using <s>good</s> old Indesign. But during those years, I discovered web2print and its scene, I understood there were other ways to design, to avoid the Adobe suite and closed-source softwares and to be completely independent and free. 
+I'm the one designing them and for the first years, I chose what appeared to me like the most straightforward way to do so, aka using <s>good</s> old Indesign. But during those years, I also discovered web2print and its scene, I understood there were other ways to design, to avoid the Adobe suite and closed-source softwares and to be completely independent and free. 
 
-I then began to design those documents whith html and css, using the amazing [paged.js](https://pagedjs.org/) to compile them into printable .pdf, and I couldn't then go back to any other way of doing.
+I then began to design those documents whith html and css, using the amazing [Paged.js](https://pagedjs.org/) to compile them into printable .pdf, and I couldn't then go back to any other way of doing.
 
-That's great, but I'm still the only one on the team who can design those documents, and who can edit them. My colleague is the one who produces their main content, but he still has to send me this content in order for me to fill the doc with it.
+That's great, but I'm still the only one on the team who can create those documents, and who can edit them. My colleague is the one who produces their main content, but he still has to send me this content in order for me to fill the doc with it.
 
-So I figured out that we needed a tool, some kind of local CMS, allowing my colleague to write content in those html document produced with paged.js in plain text and not in html, and to publish it in .pdf himself. He could choose the template of each page, depending on the type of text or images he has to create, among a set of templates I'd write in css.
+So I figured out that we needed a tool, some kind of local CMS, allowing my colleague to write content in those html document produced with Paged.js, also allowing him to write it in plain text and not in html, and to publish it in .pdf himself. He could choose the template of each page, depending on the layout he has to create, among a set of templates I'd write in css.
 
 ## The steps
 I already have several types of document designed in html and css, and I won't speak of this process here. I will be focusing on the tool allowing a third party to create, edit or delete a document, assuming different css templates are already available to use to design pages. We won't need to edit or adapt those templates.
