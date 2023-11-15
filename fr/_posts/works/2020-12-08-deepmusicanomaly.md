@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Deep Music Anomaly"
-date:   2020-12-08 14:21:50 +0200
+title: "Deep Music Anomaly"
+date: 2020-12-08 14:21:50 +0200
 categories: works
 features: 'neocities, 90's, gifs, fausse chatroom'
 languages: 'html, css, js'
