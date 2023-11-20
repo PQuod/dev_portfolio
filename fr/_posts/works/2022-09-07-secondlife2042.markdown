@@ -6,6 +6,8 @@ categories: works
 features: 'dynamique, enregistrement webcam et micro, base de données, CMS maison, cronjob'
 languages: 'html, css, php, mysql'
 img: secondlife2042
+tablet_format: true
+phone_format: true
 no_link: Le site est accessible uniquement pour le public du spectacle.
 lang: fr
 lang-ref: second-life
