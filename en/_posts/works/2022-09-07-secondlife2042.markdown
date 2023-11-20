@@ -6,6 +6,8 @@ categories: works
 features: 'dynamic, webcam and microphone recording, database, custom CMS, cronjob'
 languages: 'html, css, php, mysql'
 img: secondlife2042
+tablet_format: true
+phone_format: true
 no_link: Site access reserved to the shows' assistance.
 lang: en
 lang-ref: second-life
