@@ -6,6 +6,8 @@ categories: works
 features: 'statique, headless CMS'
 languages: 'html, scss, js, liquid, jekyll, forestry'
 img: laguerriere
+tablet_format: true
+phone_format: true
 ext_link: https://laguerriere.net/
 lang: fr
 lang-ref: guerriere
