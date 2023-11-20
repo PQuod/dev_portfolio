@@ -6,6 +6,8 @@ categories: works
 features: 'static, responsive'
 languages: 'html, scss, js, liquid, jekyll'
 img: wman
+tablet_format: true
+phont_format: true
 ext_link: 'http://wman.monster'
 lang: en
 lang-ref: wman
