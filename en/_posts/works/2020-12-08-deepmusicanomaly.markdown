@@ -6,6 +6,8 @@ categories: works
 features: 'neocities, 90s, gifs, fake-chatroom'
 languages: 'html, css, js'
 img: deepmusicanomaly
+tablet_format: true
+phone_format: true
 ext_link: https://deepmusicanomaly.neocities.org/
 lang: en
 lang-ref: deepmusicanomaly
