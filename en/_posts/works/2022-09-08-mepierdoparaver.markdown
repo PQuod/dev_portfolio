@@ -6,6 +6,8 @@ categories: works
 features: 'static, responsive, light/dark mode, bilingual'
 languages: 'html, scss, js, liquid, jekyll, forestry then tinaCMS'
 img: mepierdoparaver
+tablet_format: true
+phone_format: true
 ext_link: www.mepierdoparaver.com
 lang: en
 lang-ref: me-pierdo
