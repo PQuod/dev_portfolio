@@ -6,6 +6,8 @@ categories: works
 features: 'statique, responsive, base de données'
 languages: 'html, css, js, liquid, jekyll, netlify, airtable'
 img: maisondelapoesie
+tablet_format: true
+phone_format: true
 ext_link: https://maiporennes.fr
 lang: fr
 lang-ref: maipo
