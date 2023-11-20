@@ -6,6 +6,8 @@ categories: works
 features: 'statique, responsive, mode jour/nuit, bilingue'
 languages: 'html, scss, js, liquid, jekyll, forestry puis TinaCMS'
 img: mepierdoparaver
+tablet_format: true
+phone_format: true
 ext_link: www.mepierdoparaver.com
 lang: fr
 lang-ref: me-pierdo
