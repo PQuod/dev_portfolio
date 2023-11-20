@@ -10,4 +10,4 @@ ext_link: https://deepmusicanomaly.neocities.org/
 lang: en
 lang-ref: deepmusicanomaly
 ---
-Deep Music Anomaly
+Deep Music Anomaly gathers creative writing texts written during a workshop with the writer Samuel Rochery, at Maison de la Poésie de Rennes. It is hosted on [neocities.org](https://neocities.org/) and its aesthetics are inspired by the early web and handmade websites made during the 90's and 2000's. It is written mainly in oldschool html and css. A little bit of js was used to create a fake chatroom.
