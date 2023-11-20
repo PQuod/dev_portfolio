@@ -9,13 +9,17 @@ layout: default
       <div class="work-desktop">
         <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_desktop.jpg" alt="screenshot of the site on screen resolution" />
       </div>
+      {% if post.tablet_format %}
       <div class="work-tablet">
         <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_tablet.jpg" alt="screenshot of the site on tablet resolution" />
       </div>
+      {% endif %}
+      {% if post.phone_format %}
       <div class="work-phone">
         <img src="{{site.baseurl}}/imgs/work/{{ post.img }}_phone.jpg" alt="screenshot of the site on phone resolution" />
         <span class="phone-cercle"></span>
       </div>
+      {% endif %}
     </div>
     <div class="work-description">
       <div class="work-main">
