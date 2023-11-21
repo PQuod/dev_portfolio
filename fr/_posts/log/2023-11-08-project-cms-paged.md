@@ -24,22 +24,22 @@ Tous nos documents sont composés de pages format A4, qui ne sont pas reliées e
 Donc, en bref, il nous faut un outil qui permette à quiconque dans l'association de :
 
 **Créer**
-- Créer un nouveau document A4
-- Créer une nouvelle page à ajouter à ce document, en lui associant un modèle de mise en page qui convient au type de contenu ou à l'aspect qu'iels désirent.
-- Remplir cette nouvelle page de nouveau contenu, en choisissant parmi les sections disponibles dans la page où mettre chaque morceau de contenu (les titres, le corps du texte, les légendes, les images...)
+- [x] Créer un nouveau document A4
+- [x] Créer une nouvelle page à ajouter à ce document, en lui associant un modèle de mise en page qui convient au type de contenu ou à l'aspect qu'iels désirent.
+- [x] Remplir cette nouvelle page de nouveau contenu, en choisissant parmi les sections disponibles dans la page où mettre chaque morceau de contenu (les titres, le corps du texte, les légendes, les images...)
   
 **Modifier**
-- Modifier le contenu d'une page existante
-- Modifier l'ordre des pages du document
+- [x] Modifier le contenu d'une page existante
+- [ ] Modifier l'ordre des pages du document
 
 **Supprimer**
-- Supprimer une ou plusieurs pages existantes
-- Supprimer un document existant
+- [x] Supprimer une ou plusieurs pages existantes
+- [x] Supprimer un document existant
 
 **Voir ce qu'iels font**
-- Parcourir une liste des documents existants
-- Parcourir un aperçu de l'intégralité des pages du document
-- Avoir un aperçu des pages qu'iels créent ou modifient pendant qu'iels sont en train de le faire
+- [x] Parcourir une liste des documents existants
+- [x] Parcourir un aperçu de l'intégralité des pages du document
+- [x] Avoir un aperçu des pages qu'iels créent ou modifient pendant qu'iels sont en train de le faire
 
 
 J'ai décidé de coder cet outil principalement en php. C'est un langage avec lequel je suis assez familière, car j'ai déjà travaillé sur des projets de bases de données et codé les CMS qui permettent à d'autres de les manipuler. C'est donc ce que je vais utiliser pour agir côté serveur, pour parcourir, modifier, enregistrer ou supprimer différents fichiers. J'utiliserai aussi quelques scripts js, surtout pour m'occuper des aperçu des documents et de leurs pages.
