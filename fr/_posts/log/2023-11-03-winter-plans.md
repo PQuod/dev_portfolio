@@ -39,7 +39,7 @@ Ca fait maintenant 5 ans que je travaille à la Maison de la Poésie de Rennes. 
 
 J'aimerais donc créer un outil qui me permettrait de mettre en page ces documents avec paged.js, mais qui permettrait aussi à mon collègue d'y écrire du contenu en simple texte et non pas en html, et de le publier en .pdf. Il pourrait choisir le modèle de chaque page en fonction du type de texte ou d'image qu'il doit créer, parmi un ensemble de modèles que j'aurais écris en css.
 
-J'ai déjà commencé à écrire cet outil, cette fois en php, car j'y suis bien plus habituée qu'à Node.js et qu'il faut varier les plaisirs.
+J'ai déjà commencé à écrire cet outil, cette fois en php, car j'y suis bien plus habituée qu'à Node.js et qu'il faut varier les plaisirs. Son cahier des charges est défini [ici](https://pquod.github.io/dev_portfolio/fr/log.html#projet-un-cms-pour-paged-js-middot-cahier-des-charges).
 
 ## Hic Sunt Sus Scrofa
 Il faut que j'ajoute ici un dernier projet qui est un peu hors-catégorie, parce qu'il est payé et que c'est un projet en collaboration avec Constance Hinfray. Constance est une artiste, performeuse et étudiante en thèse. Elle travaille actuellement sur une thèse autour de la cohabitation entre animaux et humains, elle analyse comment leurs territoires respectifs s'influencent, se compromettent, se restreignent ou se façonnent mutuellement.
