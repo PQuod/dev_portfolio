@@ -13,4 +13,4 @@ For now, it is just a quick bunch of posts depicting my most recent activities. 
 
 I've talked about it a little in my [winter plans](https://pquod.github.io/dev_portfolio/fr/log.html#plans-pour-l-hiver), and about how I wanted it to be a public WIP, displaying each steps whenever I work upon it, whatever graphical or technical state it is in.
 
-It is online [here](https://pquod.github.io/personal_timeline/), and will soon replace my "official" artistic website [here](luciedesaubliaux.fr/). I'll keep this log updated with further improvements.
+It is online [here](https://pquod.github.io/personal_timeline/), and will soon replace my "official" artistic website [here](https://luciedesaubliaux.fr/). I'll keep this log updated with further improvements.
