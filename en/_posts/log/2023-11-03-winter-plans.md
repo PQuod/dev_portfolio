@@ -39,7 +39,7 @@ I've been working for 5 years now for Maison de la Poésie de Rennes. We have to
 
 I'd like then to build a tool allowing me to design those documents with paged.js, but also allowing my colleague to write content in it in plain text and not in html, and to publish it in .pdf. He could choose the template of each page, depending on the type of text or images he has to create, among a set of templates I'd write in css.
 
-I've already begun to write it, this time with php, because I am far  more accustomed with it than I am with Node, and also just to have a pleasant change.
+I've already begun to write it, this time with php, because I am far more accustomed with it than I am with Node, and also just to have a pleasant change. Its specifications are depicted in [this post](https://pquod.github.io/dev_portfolio/en/log.html#project-a-cms-for-paged-js-middot-specifications)
 
 ## Hic Sunt Sus Scrofa
 I must add one last project that is slightly off-category here, for it is a paid project I'm currently working on in collaboration with Constance Hinfray. Constance is an artist, a performer and a PhD researcher. She is currently working on a PhD thesis about animal and human cohabitation, analyzing how their respective territories are influenced, endangered, limited or created by each other.
