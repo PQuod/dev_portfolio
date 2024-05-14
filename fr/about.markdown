@@ -19,7 +19,8 @@ J'aime accorder un soin tout particulier à l'affichage du texte sur un écran e
 
 Je suis aussi [artiste et romancière](https://luciedesaubliaux.fr), et je travaille à mi-temps à la Maison de la Poésie de Rennes.
 
-Si vous avez besoin de mes services ou que vous voulez discuter d'un projet que vous avez, vous pouvez me contacter ici : l.desaubliaux [at] gmail.com
+*2024 : Je suis actuellement en congé maternité, il n'y aura donc pas beaucoup de nouveautés par ici, mais vous pouvez toujours me contacter par mail, je serais ravie de vous répondre !*
 
+Si vous avez besoin de mes services ou que vous voulez discuter d'un projet que vous avez, vous pouvez me contacter ici : l.desaubliaux [at] gmail.com
 
 Réseaux : [Github](https://github.com/PQuod) &middot; [Instagram](https://www.instagram.com/lucie_desaubliaux/)
