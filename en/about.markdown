@@ -21,4 +21,6 @@ I also am [a writer and an artist](https://luciedesaubliaux.fr), and I have a pa
 
 If you need me, or have a project you'd like to discuss about, you can reach me at l.desaubliaux [at] gmail.com
 
+*2024: I'm currently on maternity leave, so not much will be updated around here, but you can still reach me by mail, I'll be happy to answer you!*
+
 Social: [Github](https://github.com/PQuod) &middot; [Instagram](https://www.instagram.com/lucie_desaubliaux/)
