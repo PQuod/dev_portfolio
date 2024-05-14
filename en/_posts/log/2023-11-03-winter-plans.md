@@ -54,4 +54,4 @@ Apart from her research work, Constance is the artistic designer of this interac
 And just as a reminder to myself, here are the writing projects (I mean written with words that are not a coding language of some sort) I need to work on (and that maybe SHOULD be a priority to finish right now but, you know... coding <3) and which I SHOULD be done with before the end of winter (yes, there might be some personal deadlines I can't let go of still...) :
 
 - ⚛ Finishing once and for all my manuscript *Le Bruit des étoiles* (some minor adjustments to make to lead the story towards a clearer point) and finding the courage to SEND it somewhere (I still don't know where yet but I hope to figure it out). I'd really love to achieve this BEFORE december 13th, the hardest part being the sending part.
-- ⚛ Beginning the writing a novel for children an editor asked me to think about for one of its collections (this actually can really be a cosy project for the coldest months)
+- ⚛ Beginning to write a novel for children an editor asked me to think about for one of its collections (this actually can really be a cosy project for the coldest months)
