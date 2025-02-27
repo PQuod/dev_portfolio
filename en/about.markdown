@@ -17,7 +17,7 @@ I'm always eager to learn more about web development, new tools, new properties 
 
 I have a particular interest in the way texts are displayed on screen and I love creating designs dedicated to reading.
 
-I also am [a writer and an artist](https://luciedesaubliaux.fr), and I have a part-time job as cultural coordinator at Maison de la Poésie de Rennes.
+I also am [a writer and an artist](https://luciedesaubliaux.fr).
 
 If you need me, or have a project you'd like to discuss about, you can reach me at l.desaubliaux [at] gmail.com
 

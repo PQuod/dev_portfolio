@@ -17,7 +17,7 @@ J'ai toujours envie d'en apprendre plus sur le développement web, de découvrir
 
 J'aime accorder un soin tout particulier à l'affichage du texte sur un écran et créer des designs dédiés à la lecture.
 
-Je suis aussi [artiste et romancière](https://luciedesaubliaux.fr), et je travaille à mi-temps à la Maison de la Poésie de Rennes.
+Je suis aussi [artiste autrice](https://luciedesaubliaux.fr).
 
 *2024 : Je suis actuellement en congé maternité, il n'y aura donc pas beaucoup de nouveautés par ici, mais vous pouvez toujours me contacter par mail, je serais ravie de vous répondre !*
 
