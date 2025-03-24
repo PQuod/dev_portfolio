@@ -4,7 +4,7 @@ title:  "Noise generator"
 date:   2022-05-08 14:21:50 +0200
 categories: projects
 img: "noisegenerator.jpg"
-ext_link: "https://luciedesaubliaux.fr/noisegenerator/"
+ext_link: "https://pquod.github.io/parasites/"
 github: "https://github.com/PQuod/parasites"
 lang: fr
 lang-ref: noise-generator
