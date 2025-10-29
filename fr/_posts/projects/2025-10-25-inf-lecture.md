@@ -4,7 +4,7 @@ title:  "∞-lecture"
 date:   2025-10-25 14:21:50 +0200
 categories: projects
 img: "inf-lecture.PNG"
-ext_link: "https://luciedesaubliaux.fr/inf-lecture/index.php"
+ext_link: "https://luciedesaubliaux.fr/inf_lecture/index.php"
 lang: fr
 lang-ref: inf-lecture
 ---
