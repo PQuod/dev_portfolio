@@ -8,4 +8,4 @@ ext_link: "https://luciedesaubliaux.fr/inf_lecture/index.php"
 lang: fr
 lang-ref: inf-lecture
 ---
-Une plateforme qui agence toutes mes lectures depuis 2008 et les citations que j'en ai tirées. C'est un outil d'archivage pour moi et un outil de recherche ouvert aux autres. Écrit en PHP et MySQL. Plus d'infos sur ce projet [là](/fr/log.html#projet-ultimate-biblio-3000-middot-la-gen%C3%A8se)
+Une plateforme qui agence toutes mes lectures depuis 2008 et les citations que j'en ai tirées. C'est un outil d'archivage pour moi et un outil de recherche ouvert aux autres. Écrit en PHP et MySQL. Plus d'infos sur ce projet [là](dev_portfolio/fr/log.html#projet-ultimate-biblio-3000-middot-la-gen%C3%A8se)
